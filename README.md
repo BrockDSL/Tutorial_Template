@@ -36,4 +36,4 @@ This is where you can add any additional resources, follow up tutorial, or works
 **End notes**
 This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
 
-**This workshop is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
